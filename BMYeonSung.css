@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'BMYeonSung';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMYeonSung/BMYeonSung.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/BMYeonSung/BMYeonSung.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMYeonSung/BMYeonSung.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMYeonSung/BMYeonSung.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/BMYeonSung/BMYeonSung.ttf') format("truetype");
+    font-display: swap;
+} 
